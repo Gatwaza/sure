@@ -1,0 +1,1082 @@
+[
+  {
+    "text": "Patient is a 70-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 322 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 67-year-old female with chest pain, blood pressure of 115 mmHg, cholesterol level of 564 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 124 mmHg, cholesterol level of 261 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 263 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 74-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 269 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 65-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 177 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 256 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 239 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 293 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 63-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 407 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 135 mmHg, cholesterol level of 234 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 53-year-old male with chest pain, blood pressure of 142 mmHg, cholesterol level of 226 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 235 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 61-year-old male with chest pain, blood pressure of 134 mmHg, cholesterol level of 234 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 57-year-old female with chest pain, blood pressure of 128 mmHg, cholesterol level of 303 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 71-year-old female with chest pain, blood pressure of 112 mmHg, cholesterol level of 149 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 311 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 53-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 203 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 211 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 40-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 199 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 67-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 229 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 245 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 43-year-old male with chest pain, blood pressure of 115 mmHg, cholesterol level of 303 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 47-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 204 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old female with chest pain, blood pressure of 132 mmHg, cholesterol level of 288 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 48-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 275 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old female with chest pain, blood pressure of 138 mmHg, cholesterol level of 243 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 51-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 295 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 230 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 71-year-old female with chest pain, blood pressure of 110 mmHg, cholesterol level of 265 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 229 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 66-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 228 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 37-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 215 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 170 mmHg, cholesterol level of 326 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 50-year-old male with chest pain, blood pressure of 144 mmHg, cholesterol level of 200 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 256 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 61-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 207 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 273 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 180 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 122 mmHg, cholesterol level of 222 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 40-year-old male with chest pain, blood pressure of 152 mmHg, cholesterol level of 223 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 124 mmHg, cholesterol level of 209 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 233 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old male with chest pain, blood pressure of 101 mmHg, cholesterol level of 197 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 126 mmHg, cholesterol level of 218 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 211 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 49-year-old male with chest pain, blood pressure of 118 mmHg, cholesterol level of 149 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 197 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 66-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 246 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 65-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 225 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 136 mmHg, cholesterol level of 315 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 205 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 65-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 417 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 63-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 195 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 45-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 234 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 41-year-old female with chest pain, blood pressure of 105 mmHg, cholesterol level of 198 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 61-year-old male with chest pain, blood pressure of 138 mmHg, cholesterol level of 166 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 60-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 178 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old female with chest pain, blood pressure of 174 mmHg, cholesterol level of 249 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 62-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 281 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 126 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 51-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 305 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 226 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 240 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 63-year-old male with chest pain, blood pressure of 145 mmHg, cholesterol level of 233 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 276 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 261 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old female with chest pain, blood pressure of 136 mmHg, cholesterol level of 319 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 44-year-old female with chest pain, blood pressure of 118 mmHg, cholesterol level of 242 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 47-year-old male with chest pain, blood pressure of 108 mmHg, cholesterol level of 243 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 61-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 260 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 57-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 354 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 70-year-old male with chest pain, blood pressure of 156 mmHg, cholesterol level of 245 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 76-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 197 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 67-year-old female with chest pain, blood pressure of 106 mmHg, cholesterol level of 223 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 45-year-old male with chest pain, blood pressure of 142 mmHg, cholesterol level of 309 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 45-year-old male with chest pain, blood pressure of 104 mmHg, cholesterol level of 208 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 39-year-old female with chest pain, blood pressure of 94 mmHg, cholesterol level of 199 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 42-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 209 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 236 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 146 mmHg, cholesterol level of 218 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 35-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 198 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 270 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 41-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 214 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 201 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 148 mmHg, cholesterol level of 244 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 208 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 178 mmHg, cholesterol level of 270 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 41-year-old female with chest pain, blood pressure of 126 mmHg, cholesterol level of 306 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 50-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 243 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 221 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 61-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 330 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 124 mmHg, cholesterol level of 266 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 206 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 212 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 47-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 275 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 66-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 302 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 100 mmHg, cholesterol level of 234 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 64-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 313 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 50-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 244 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old female with chest pain, blood pressure of 108 mmHg, cholesterol level of 141 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 67-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 237 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 49-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 269 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 165 mmHg, cholesterol level of 289 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 63-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 254 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 124 mmHg, cholesterol level of 274 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 100 mmHg, cholesterol level of 222 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 258 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 177 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 45-year-old female with chest pain, blood pressure of 112 mmHg, cholesterol level of 160 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 55-year-old female with chest pain, blood pressure of 180 mmHg, cholesterol level of 327 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 41-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 235 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old female with chest pain, blood pressure of 158 mmHg, cholesterol level of 305 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old female with chest pain, blood pressure of 135 mmHg, cholesterol level of 304 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 295 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 49-year-old female with chest pain, blood pressure of 134 mmHg, cholesterol level of 271 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 249 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 56-year-old female with chest pain, blood pressure of 200 mmHg, cholesterol level of 288 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 66-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 226 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 283 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 49-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 188 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 122 mmHg, cholesterol level of 286 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 152 mmHg, cholesterol level of 274 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 65-year-old female with chest pain, blood pressure of 160 mmHg, cholesterol level of 360 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 273 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old female with chest pain, blood pressure of 160 mmHg, cholesterol level of 201 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 267 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old female with chest pain, blood pressure of 136 mmHg, cholesterol level of 196 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 134 mmHg, cholesterol level of 201 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 117 mmHg, cholesterol level of 230 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 63-year-old female with chest pain, blood pressure of 108 mmHg, cholesterol level of 269 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 66-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 212 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 226 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 246 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 232 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old female with chest pain, blood pressure of 142 mmHg, cholesterol level of 177 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 67-year-old female with chest pain, blood pressure of 152 mmHg, cholesterol level of 277 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 249 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 34-year-old female with chest pain, blood pressure of 118 mmHg, cholesterol level of 210 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 132 mmHg, cholesterol level of 207 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 145 mmHg, cholesterol level of 212 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 138 mmHg, cholesterol level of 271 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 50-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 233 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 213 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 192 mmHg, cholesterol level of 283 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 53-year-old male with chest pain, blood pressure of 123 mmHg, cholesterol level of 282 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 230 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 40-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 167 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 132 mmHg, cholesterol level of 224 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 41-year-old female with chest pain, blood pressure of 112 mmHg, cholesterol level of 268 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 41-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 250 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 50-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 219 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old female with chest pain, blood pressure of 108 mmHg, cholesterol level of 267 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 64-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 303 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 51-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 256 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 46-year-old female with chest pain, blood pressure of 105 mmHg, cholesterol level of 204 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 55-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 217 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 45-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 308 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 193 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 66-year-old female with chest pain, blood pressure of 178 mmHg, cholesterol level of 228 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 38-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 231 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 244 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 55-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 262 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 259 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 43-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 211 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 64-year-old female with chest pain, blood pressure of 180 mmHg, cholesterol level of 325 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 50-year-old female with chest pain, blood pressure of 110 mmHg, cholesterol level of 254 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 53-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 197 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 45-year-old female with chest pain, blood pressure of 138 mmHg, cholesterol level of 236 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 65-year-old male with chest pain, blood pressure of 138 mmHg, cholesterol level of 282 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 69-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 234 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 69-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 254 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 67-year-old male with chest pain, blood pressure of 100 mmHg, cholesterol level of 299 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 68-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 211 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 34-year-old male with chest pain, blood pressure of 118 mmHg, cholesterol level of 182 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 138 mmHg, cholesterol level of 294 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 298 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 46-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 231 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 67-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 254 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 50-year-old male with chest pain, blood pressure of 129 mmHg, cholesterol level of 196 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 42-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 240 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old female with chest pain, blood pressure of 134 mmHg, cholesterol level of 409 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 41-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 172 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 42-year-old female with chest pain, blood pressure of 102 mmHg, cholesterol level of 265 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 53-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 246 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 43-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 315 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old male with chest pain, blood pressure of 132 mmHg, cholesterol level of 184 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 108 mmHg, cholesterol level of 233 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 394 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 70-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 269 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 239 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 70-year-old male with chest pain, blood pressure of 145 mmHg, cholesterol level of 174 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 108 mmHg, cholesterol level of 309 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 35-year-old male with chest pain, blood pressure of 126 mmHg, cholesterol level of 282 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 124 mmHg, cholesterol level of 255 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 55-year-old female with chest pain, blood pressure of 135 mmHg, cholesterol level of 250 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old female with chest pain, blood pressure of 100 mmHg, cholesterol level of 248 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old female with chest pain, blood pressure of 110 mmHg, cholesterol level of 214 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 69-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 239 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 77-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 304 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 68-year-old male with chest pain, blood pressure of 118 mmHg, cholesterol level of 277 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 300 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 258 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 299 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 55-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 289 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 152 mmHg, cholesterol level of 298 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old female with chest pain, blood pressure of 102 mmHg, cholesterol level of 318 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 105 mmHg, cholesterol level of 240 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 309 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 37-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 250 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 170 mmHg, cholesterol level of 288 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 125 mmHg, cholesterol level of 245 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 43-year-old female with chest pain, blood pressure of 122 mmHg, cholesterol level of 213 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 216 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 29-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 204 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 41-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 204 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 63-year-old female with chest pain, blood pressure of 135 mmHg, cholesterol level of 252 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 94 mmHg, cholesterol level of 227 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 258 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 220 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 239 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 65-year-old male with chest pain, blood pressure of 135 mmHg, cholesterol level of 254 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 168 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 63-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 330 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 35-year-old female with chest pain, blood pressure of 138 mmHg, cholesterol level of 183 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 41-year-old male with chest pain, blood pressure of 135 mmHg, cholesterol level of 203 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 263 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 43-year-old female with chest pain, blood pressure of 132 mmHg, cholesterol level of 341 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 58-year-old female with chest pain, blood pressure of 150 mmHg, cholesterol level of 283 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 118 mmHg, cholesterol level of 186 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 61-year-old female with chest pain, blood pressure of 145 mmHg, cholesterol level of 307 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 39-year-old male with chest pain, blood pressure of 118 mmHg, cholesterol level of 219 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 45-year-old male with chest pain, blood pressure of 115 mmHg, cholesterol level of 260 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 128 mmHg, cholesterol level of 255 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 62-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 231 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 160 mmHg, cholesterol level of 164 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 53-year-old female with chest pain, blood pressure of 138 mmHg, cholesterol level of 234 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 43-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 177 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 47-year-old male with chest pain, blood pressure of 138 mmHg, cholesterol level of 257 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 325 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 68-year-old male with chest pain, blood pressure of 180 mmHg, cholesterol level of 274 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 39-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 321 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 53-year-old female with chest pain, blood pressure of 130 mmHg, cholesterol level of 264 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 62-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 268 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 308 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 253 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 65-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 248 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 65-year-old female with chest pain, blood pressure of 155 mmHg, cholesterol level of 269 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 185 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 145 mmHg, cholesterol level of 282 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 54-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 188 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 219 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 112 mmHg, cholesterol level of 290 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 51-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 175 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 59-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 212 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 71-year-old female with chest pain, blood pressure of 160 mmHg, cholesterol level of 302 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 61-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 243 mg/dL, has fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 55-year-old male with chest pain, blood pressure of 132 mmHg, cholesterol level of 353 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 64-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 335 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 43-year-old male with chest pain, blood pressure of 150 mmHg, cholesterol level of 247 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 58-year-old female with chest pain, blood pressure of 120 mmHg, cholesterol level of 340 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 60-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 206 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 58-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 284 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 49-year-old male with chest pain, blood pressure of 130 mmHg, cholesterol level of 266 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 48-year-old male with chest pain, blood pressure of 110 mmHg, cholesterol level of 229 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  },
+  {
+    "text": "Patient is a 52-year-old male with chest pain, blood pressure of 172 mmHg, cholesterol level of 199 mg/dL, has fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 44-year-old male with chest pain, blood pressure of 120 mmHg, cholesterol level of 263 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 56-year-old female with chest pain, blood pressure of 140 mmHg, cholesterol level of 294 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 57-year-old male with chest pain, blood pressure of 140 mmHg, cholesterol level of 192 mg/dL, does not have fasting blood sugar above 120 mg/dL, and no exercise-induced angina. Heart disease presence: Absence.",
+    "Heart Disease": "Absence"
+  },
+  {
+    "text": "Patient is a 67-year-old male with chest pain, blood pressure of 160 mmHg, cholesterol level of 286 mg/dL, does not have fasting blood sugar above 120 mg/dL, and exercise-induced angina. Heart disease presence: Presence.",
+    "Heart Disease": "Presence"
+  }
+]
